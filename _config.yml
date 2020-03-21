@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Karol Alencar"
   avatar           : "profile.png"
-  bio              : "CS Undergraduate Student at [Federal University of São Carlos](https://site.dc.ufscar.br/) and Python Developer"
+  bio              : "CS Undergraduate Student at <a href="https://site.dc.ufscar.br/">Federal University of São Carlos</a> and Python Developer"
   location         : "São Carlos - SP, Brazil"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "karol.alencar.58"
+  facebook         : #"karol.alencar.58"
   foursquare       :
   github           : "karolalencar"
   google_plus      :
