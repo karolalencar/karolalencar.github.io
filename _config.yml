@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Karol Alencar Page"
+title                    : "Karol Alencar"
 title_separator          : "-"
 name                     : &name "Karulina Alencar de Freitas"
 description              : &description "CS Undergraduate Student | Python Developer"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Karol Alencar"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "CS Undergraduate Student at <a href="https://site.dc.ufscar.br/">Federal University of São Carlos</a> and Python Developer"
   location         : "São Carlos - SP, Brazil"
   employer         :
